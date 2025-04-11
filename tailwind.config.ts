@@ -115,7 +115,8 @@ export default {
 			},
 			fontFamily: {
 				'sans': ['Inter', 'sans-serif'],
-				'orbitron': ['Orbitron', 'sans-serif']
+				'orbitron': ['Orbitron', 'sans-serif'],
+				'space-grotesk': ['Space Grotesk', 'sans-serif']
 			}
 		}
 	},
